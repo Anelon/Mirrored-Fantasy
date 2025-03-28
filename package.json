@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/Anelon/TopDownSpeed.git"
   },
-  "author": "Andrew Bell and Matthew Chan",
+  "author": "Andrew Bell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Anelon/TopDownSpeed/issues"
